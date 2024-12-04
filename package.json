@@ -5,7 +5,11 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "build": "tsc"
+        "build": "tsc",
+        "run:1": "tsc && node dist/1/index.js",
+        "run:2": "tsc && node dist/2/index.js",
+        "run:3": "tsc && node dist/3/index.js",
+        "run:4": "tsc && node dist/4/index.js"
     },
     "keywords": [],
     "author": "",
