@@ -10,8 +10,9 @@
     "keywords": [],
     "author": "",
     "license": "ISC",
+    "type": "module",
     "devDependencies": {
-        "eslint": "^8.55.0",
+        "eslint": "^9.16.0",
         "typescript": "^5.7.2",
         "typescript-eslint": "^8.17.0",
         "@typescript-eslint/eslint-plugin": "^6.13.1",
