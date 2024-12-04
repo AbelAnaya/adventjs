@@ -1,4 +1,4 @@
-function createFrame(names: string[]): string {
+export default function createFrame(names: string[]): string {
     let longestName = 0
 
     for (const name of names) {

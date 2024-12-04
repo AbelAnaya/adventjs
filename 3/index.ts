@@ -1,6 +1,6 @@
-type Inventory = Array<{ name: string; quantity: number; category: string }>
+export type Inventory = Array<{ name: string; quantity: number; category: string }>
 
-function organizeInventory(inventory: Inventory): object {
+export default function organizeInventory(inventory: Inventory): object {
     const organizedInventory: Record<string, Record<string, number>> = {}
 
     for (const { category, name, quantity } of inventory) {

@@ -1,4 +1,4 @@
-function createXmasTree(height: number, ornament: string): string {
+export default function createXmasTree(height: number, ornament: string): string {
     let BODY = ''
 
     for (let i = 0; i < height; i++) {
