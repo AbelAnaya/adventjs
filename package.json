@@ -5,10 +5,10 @@
     "scripts": {
         "test": "jest",
         "build": "tsc",
-        "test:1": "tsc && jest --testPathPattern='/1/.*\\.test\\.ts$'",
-        "test:2": "tsc && jest --testPathPattern='/2/.*\\.test\\.ts$'",
-        "test:3": "tsc && jest --testPathPattern='/3/.*\\.test\\.ts$'",
-        "test:4": "tsc && jest --testPathPattern='/4/.*\\.test\\.ts$'"
+        "test:1": "tsc && jest --testPathPattern='/src/1/.*\\.test\\.ts$'",
+        "test:2": "tsc && jest --testPathPattern='/src/2/.*\\.test\\.ts$'",
+        "test:3": "tsc && jest --testPathPattern='/src/3/.*\\.test\\.ts$'",
+        "test:4": "tsc && jest --testPathPattern='/src/4/.*\\.test\\.ts$'"
     },
     "keywords": [],
     "author": "",
