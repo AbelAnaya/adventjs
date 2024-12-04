@@ -1,20 +1,15 @@
-function createFrame(names) {
-  const longerName = names.reduce((prev, current, index) => {
-    if (current.length > prev.length) return current;
-    else return prev;
-  });
+function createFrame(names: string[]): string {
+    let longestName = 0
 
-  const maxStrlen = longerName.length;
+    for (const name of names) {
+        if (name.length > longestName) longestName = name.length
+    }
 
-  let output = "*".repeat(maxStrlen + 4) + "\n";
+    let output = '*'.repeat(longestName + 4) + '\n'
 
-  names.forEach((element) => {
-    output += `* ${element} ${" ".repeat(maxStrlen - element.length)}*\n`;
-  });
+    for (const name of names) output += `* ${name} ${' '.repeat(longestName - name.length)}*\n`
 
-  output += "*".repeat(maxStrlen + 4);
+    output += '*'.repeat(longestName + 4)
 
-  return output;
+    return output
 }
-
-createFrame(["midu", "midunombre", "eltercerodelmundo"]);

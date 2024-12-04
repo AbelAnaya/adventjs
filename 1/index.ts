@@ -1,8 +1,7 @@
-function prepareGifts(gifts) {
-  let uniqueGifts = [];
-  gifts.forEach((value) => {
-    if (!uniqueGifts.some((item) => item === value)) uniqueGifts.push(value);
-  });
+function prepareGifts(gifts: number[]) {
+    const uniqueGifts = new Set(gifts)
 
-  return uniqueGifts.sort((a, b) => a - b);
+    const sortedGifts = [...uniqueGifts].sort((a, b) => a - b)
+
+    return sortedGifts
 }

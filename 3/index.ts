@@ -1,34 +1,12 @@
-type Inventory = Array<{ name: string; quantity: number; category: string }>;
-
-interface Summary {
-  [category: string]: {
-    [name: string]: number;
-  };
-}
+type Inventory = Array<{ name: string; quantity: number; category: string }>
 
 function organizeInventory(inventory: Inventory): object {
-  let summary: Summary = {};
+    const organizedInventory: Record<string, Record<string, number>> = {}
 
-  inventory.forEach((item) => {
-    if (item.category in summary && item.name in summary[item.category]) {
-      summary[item.category][item.name] += item.quantity;
-    } else if (item.category in summary) {
-      summary[item.category][item.name] = item.quantity;
-    } else {
-      summary[item.category] = {};
-      summary[item.category][item.name] = item.quantity;
+    for (const { category, name, quantity } of inventory) {
+        organizedInventory[category] ??= {}
+        organizedInventory[category][name] = ~~organizedInventory[category][name] + quantity
     }
-  });
 
-  return summary;
+    return organizedInventory
 }
-
-const inventary = [
-  { name: "doll", quantity: 5, category: "toys" },
-  { name: "car", quantity: 3, category: "toys" },
-  { name: "ball", quantity: 2, category: "sports" },
-  { name: "car", quantity: 2, category: "toys" },
-  { name: "racket", quantity: 4, category: "sports" },
-];
-
-console.log(organizeInventory(inventary));

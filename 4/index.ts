@@ -1,4 +1,4 @@
-function createXmasTree(height, ornament) {
+function createXmasTree(height: number, ornament: string): string {
     let BODY = ''
 
     for (let i = 0; i < height; i++) {
@@ -14,5 +14,3 @@ function createXmasTree(height, ornament) {
     const OUTPUT = BODY + FOOTER
     return OUTPUT
 }
-
-console.log(createXmasTree(6, '*'))
