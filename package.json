@@ -1,8 +1,7 @@
 {
-    "name": "4",
+    "name": "AdventJS 2024",
     "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
+    "description": "Advent JS 2024 Solutions",
     "scripts": {
         "test": "jest",
         "build": "tsc",
