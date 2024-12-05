@@ -1,5 +1,5 @@
 <h1 align="center">
-    AdventJS Solutions [2024] 🎅🎄
+    AdventJS Solutions 2024 🎅🎄🎁
 </h1>
 
 <h4 align="center">
@@ -19,9 +19,22 @@
 <h2>
     Summary
 </h2>
+
 <p>
-    Solutions to programming challenges of <a href="https://adventjs.dev/" target="_blank">AdventJS<a>. AdventJS. A initiative of <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>Consists of 25 days of programming challenges in JS.
+    Solutions to programming challenges of <a href="https://adventjs.dev/" target="_blank">AdventJS<a>. A initiative of <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>. Consists of 25 days of programming challenges in JS.
 </p>
+
+Install dependencies using:
+
+```sh
+pnpm i
+```
+
+To execute a solution by day use:
+
+```sh
+pnpm test:1
+```
 
 <h2>
     Challenges
