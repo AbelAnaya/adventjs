@@ -33,7 +33,8 @@
 |    02     | Return a string with the names of good child              |     🟢     |    **5**     | [Show](./src/02-challenge) |
 |    03     | Return an object with the organized toys                  |     🟢     |    **5**     | [Show](./src/03-challenge) |
 |    04     | Construct a christmas tree with the desired height        |     🟠     |    **5**     | [Show](./src/04-challenge) |
-| **Total** |                                                           |   **/**    |    **20**    |           **/**            |
+|    05     | Shoe pairing                                              |     🟢     |    **5**     | [Show](./src/05-challenge) |
+| **Total** |                                                           |   **/**    |    **25**    |           **/**            |
 
 <h2>
     License

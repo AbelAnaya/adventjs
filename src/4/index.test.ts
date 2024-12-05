@@ -1,6 +1,6 @@
 import fn from './index'
 
-describe('Challenge 01: construct a christmas tree with the desired height', () => {
+describe('Challenge 04: construct a christmas tree with the desired height', () => {
     it('Test 01', () => {
         const result: string = fn(5, '*')
         const expected: string =
