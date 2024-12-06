@@ -47,7 +47,8 @@ pnpm test:1
 |    03     | Return an object with the organized toys                  |     🟢     |    **5**     | [Show](./src/3) |
 |    04     | Construct a christmas tree with the desired height        |     🟠     |    **5**     | [Show](./src/4) |
 |    05     | Shoe pairing                                              |     🟢     |    **5**     | [Show](./src/5) |
-| **Total** |                                                           |   **/**    |    **25**    |      **/**      |
+|    06     | Is the gift inside the box?                               |     🟠     |    **5**     | [Show](./src/6) |
+| **Total** |                                                           |   **/**    |    **30**    |      **/**      |
 
 <h2>
     License
