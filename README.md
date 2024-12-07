@@ -48,7 +48,8 @@ pnpm test:1
 |    04     | Construct a christmas tree with the desired height        |     🟠     |    **5**     | [Show](./src/4) |
 |    05     | Shoe pairing                                              |     🟢     |    **5**     | [Show](./src/5) |
 |    06     | Is the gift inside the box?                               |     🟠     |    **5**     | [Show](./src/6) |
-| **Total** |                                                           |   **/**    |    **30**    |      **/**      |
+|    07     | The Grinch's attack                                       |     🟠     |    **5**     | [Show](./src/7) |
+| **Total** |                                                           |   **/**    |    **35**    |      **/**      |
 
 <h2>
     License
