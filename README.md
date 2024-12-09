@@ -50,8 +50,8 @@ pnpm test:1
 |    06     | Is the gift inside the box?                               |     🟠     |    **5**     | [Show](./src/6) |
 |    07     | The Grinch's attack                                       |     🟠     |    **5**     | [Show](./src/7) |
 |    08     | The reno race                                             |     🟢     |    **5**     | [Show](./src/8) |
-|    09     | The magic train                                           |     🟠     |    **5**     | [Show](./src/9) |
-| **Total** |                                                           |   **/**    |    **45**    |      **/**      |
+|    09     | The magic train                                           |     🟠     |    **1**     | [Show](./src/9) |
+| **Total** |                                                           |   **/**    |    **41**    |      **/**      |
 
 <h2>
     License
