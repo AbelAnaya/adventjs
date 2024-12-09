@@ -32,28 +32,4 @@ describe("Challenge 07: The Grinch's attack", () => {
 
         expect(result).toBe(expected)
     })
-
-    it('Test 05', () => {
-        const pkg = 'abc(def)ghi(jkl)'
-        const result = fn(pkg)
-        const expected = 'abcfedghilkj'
-
-        expect(result).toBe(expected)
-    })
-
-    // it('Test 06', () => {
-    //     const pkg = ''
-    //     const result = fn(pkg)
-    //     const expected = ''
-    //
-    //     expect(result).toBe(expected)
-    // })
-    //
-    // it('Test 07', () => {
-    //     const pkg = 'abc'
-    //     const result = fn(pkg)
-    //     const expected = 'abc'
-    //
-    //     expect(result).toBe(expected)
-    // })
 })

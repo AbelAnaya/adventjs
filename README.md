@@ -49,7 +49,9 @@ pnpm test:1
 |    05     | Shoe pairing                                              |     🟢     |    **5**     | [Show](./src/5) |
 |    06     | Is the gift inside the box?                               |     🟠     |    **5**     | [Show](./src/6) |
 |    07     | The Grinch's attack                                       |     🟠     |    **5**     | [Show](./src/7) |
-| **Total** |                                                           |   **/**    |    **35**    |      **/**      |
+|    08     | The reno race                                             |     🟢     |    **5**     | [Show](./src/8) |
+|    09     | The magic train                                           |     🟠     |    **5**     | [Show](./src/9) |
+| **Total** |                                                           |   **/**    |    **45**    |      **/**      |
 
 <h2>
     License

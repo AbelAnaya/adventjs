@@ -11,7 +11,8 @@
         "test:4": "tsc && jest --testPathPattern='/src/4/.*\\.test\\.ts$'",
         "test:5": "tsc && jest --testPathPattern='/src/5/.*\\.test\\.ts$'",
         "test:6": "tsc && jest --testPathPattern='/src/6/.*\\.test\\.ts$'",
-        "test:7": "tsc && jest --testPathPattern='/src/7/.*\\.test\\.ts$'"
+        "test:7": "tsc && jest --testPathPattern='/src/7/.*\\.test\\.ts$'",
+        "test:8": "tsc && jest --testPathPattern='/src/8/.*\\.test\\.ts$'"
     },
     "keywords": [],
     "author": "",
