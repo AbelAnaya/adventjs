@@ -40,18 +40,19 @@ pnpm test:1
     Challenges
 </h2>
 
-|     #     | Challenge                                                 | Difficulty | Stars earned |   Description   |
-| :-------: | --------------------------------------------------------- | :--------: | :----------: | :-------------: |
-|    01     | Return an array of unique gifts sorted in ascending order |     🟢     |    **5**     | [Show](./src/1) |
-|    02     | Return a string with the names of good child              |     🟢     |    **5**     | [Show](./src/2) |
-|    03     | Return an object with the organized toys                  |     🟢     |    **5**     | [Show](./src/3) |
-|    04     | Construct a christmas tree with the desired height        |     🟠     |    **5**     | [Show](./src/4) |
-|    05     | Shoe pairing                                              |     🟢     |    **5**     | [Show](./src/5) |
-|    06     | Is the gift inside the box?                               |     🟠     |    **5**     | [Show](./src/6) |
-|    07     | The Grinch's attack                                       |     🟠     |    **5**     | [Show](./src/7) |
-|    08     | The reno race                                             |     🟢     |    **5**     | [Show](./src/8) |
-|    09     | The magic train                                           |     🟠     |    **5**     | [Show](./src/9) |
-| **Total** |                                                           |   **/**    |    **45**    |      **/**      |
+|     #     | Challenge                                                 | Difficulty | Stars earned |   Description    |
+| :-------: | --------------------------------------------------------- | :--------: | :----------: | :--------------: |
+|    01     | Return an array of unique gifts sorted in ascending order |     🟢     |    **5**     | [Show](./src/1)  |
+|    02     | Return a string with the names of good child              |     🟢     |    **5**     | [Show](./src/2)  |
+|    03     | Return an object with the organized toys                  |     🟢     |    **5**     | [Show](./src/3)  |
+|    04     | Construct a christmas tree with the desired height        |     🟠     |    **5**     | [Show](./src/4)  |
+|    05     | Shoe pairing                                              |     🟢     |    **5**     | [Show](./src/5)  |
+|    06     | Is the gift inside the box?                               |     🟠     |    **5**     | [Show](./src/6)  |
+|    07     | The Grinch's attack                                       |     🟠     |    **5**     | [Show](./src/7)  |
+|    08     | The reno race                                             |     🟢     |    **5**     | [Show](./src/8)  |
+|    09     | The magic train                                           |     🟠     |    **5**     | [Show](./src/9)  |
+|    10     | The elfish assembler                                      |     🟠     |    **5**     | [Show](./src/10) |
+| **Total** |                                                           |   **/**    |    **50**    |      **/**       |
 
 <h2>
     License

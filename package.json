@@ -13,7 +13,8 @@
         "test:6": "tsc && jest --testPathPattern='/src/6/.*\\.test\\.ts$'",
         "test:7": "tsc && jest --testPathPattern='/src/7/.*\\.test\\.ts$'",
         "test:8": "tsc && jest --testPathPattern='/src/8/.*\\.test\\.ts$'",
-        "test:9": "tsc && jest --testPathPattern='/src/9/.*\\.test\\.ts$'"
+        "test:9": "tsc && jest --testPathPattern='/src/9/.*\\.test\\.ts$'",
+        "test:10": "tsc && jest --testPathPattern='/src/10/.*\\.test\\.ts$'"
     },
     "keywords": [],
     "author": "",
