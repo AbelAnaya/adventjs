@@ -52,7 +52,8 @@ pnpm test:1
 |    08     | The reno race                                             |     🟢     |    **5**     | [Show](./src/8)  |
 |    09     | The magic train                                           |     🟠     |    **5**     | [Show](./src/9)  |
 |    10     | The elfish assembler                                      |     🟠     |    **5**     | [Show](./src/10) |
-| **Total** |                                                           |   **/**    |    **50**    |      **/**       |
+|    11     | Filenames encoded                                         |     🟢     |    **5**     | [Show](./src/11) |
+| **Total** |                                                           |   **/**    |    **55**    |      **/**       |
 
 <h2>
     License
