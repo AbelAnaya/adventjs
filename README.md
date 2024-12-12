@@ -53,7 +53,8 @@ pnpm test:1
 |    09     | The magic train                                           |     🟠     |    **5**     | [Show](./src/9)  |
 |    10     | The elfish assembler                                      |     🟠     |    **5**     | [Show](./src/10) |
 |    11     | Filenames encoded                                         |     🟢     |    **5**     | [Show](./src/11) |
-| **Total** |                                                           |   **/**    |    **55**    |      **/**       |
+|    12     | How much does the tree cost?                              |     🟢     |    **5**     | [Show](./src/12) |
+| **Total** |                                                           |   **/**    |    **60**    |      **/**       |
 
 <h2>
     License
