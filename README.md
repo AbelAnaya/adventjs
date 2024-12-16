@@ -54,8 +54,11 @@ pnpm test:1
 |    10     | The elfish assembler                                      |     🟠     |    **5**     | [Show](./src/10) |
 |    11     | Filenames encoded                                         |     🟢     |    **5**     | [Show](./src/11) |
 |    12     | How much does the tree cost?                              |     🟢     |    **5**     | [Show](./src/12) |
-|    13     | Is the robot back?                                        |     🟠     |    **5**     | [Show](./src/13) |
-| **Total** |                                                           |   **/**    |    **65**    |      **/**       |
+|    13     | Is the robot back?                                        |     🔴     |    **5**     | [Show](./src/13) |
+|    14     | Weaving the reno                                          |     🟢     |    **5**     | [Show](./src/14) |
+|    15     | Drawing tables                                            |     🟢     |    **5**     | [Show](./src/15) |
+|    16     | Cleaning the snow path                                    |     🟢     |    **5**     | [Show](./src/16) |
+| **Total** |                                                           |   **/**    |    **80**    |      **/**       |
 
 <h2>
     License
