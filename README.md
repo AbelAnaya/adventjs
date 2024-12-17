@@ -58,7 +58,8 @@ pnpm test:1
 |    14     | Weaving the reno                                          |     🟢     |    **5**     | [Show](./src/14) |
 |    15     | Drawing tables                                            |     🟢     |    **5**     | [Show](./src/15) |
 |    16     | Cleaning the snow path                                    |     🟢     |    **5**     | [Show](./src/16) |
-| **Total** |                                                           |   **/**    |    **80**    |      **/**       |
+|    17     | Grinch's bombs                                            |     🟠     |    **5**     | [Show](./src/17) |
+| **Total** |                                                           |   **/**    |    **85**    |      **/**       |
 
 <h2>
     License
