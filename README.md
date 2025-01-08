@@ -59,6 +59,8 @@ pnpm test:1
 |    15     | Drawing tables                                            |     🟢     |    **5**     | [Show](./src/15) |
 |    16     | Cleaning the snow path                                    |     🟢     |    **5**     | [Show](./src/16) |
 |    17     | Grinch's bombs                                            |     🟠     |    **5**     | [Show](./src/17) |
+|    18     | Santa's magic agenda                                      |     🔴     |    **5**     | [Show](./src/18) |
+|    19     | Stack magical boxes to deliver gifts                      |     🔴     |    **5**     | [Show](./src/19) |
 | **Total** |                                                           |   **/**    |    **85**    |      **/**       |
 
 <h2>
