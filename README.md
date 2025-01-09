@@ -61,6 +61,13 @@ pnpm test:1
 |    17     | Grinch's bombs                                            |     🟠     |    **5**     | [Show](./src/17) |
 |    18     | Santa's magic agenda                                      |     🔴     |    **5**     | [Show](./src/18) |
 |    19     | Stack magical boxes to deliver gifts                      |     🔴     |    **5**     | [Show](./src/19) |
+|    20     | Find missing and duplicate gifts                          |     🟢     |    **5**     | [Show](./src/20) |
+|    21     | Calculate the height of the Christmas tree                |     🟢     |    **5**     | [Show](./src/21) |
+|    22     | Generate gift combinations                                |     🟠     |    **5**     | [Show](./src/22) |
+|    23     | Find the missing numbers                                  |     🟢     |    **5**     | [Show](./src/23) |
+|    24     | Check if trees are magical mirrors                        |     🟠     |    **5**     | [Show](./src/24) |
+|    25     | Execute the magical language                              |     🟠     |    **5**     | [Show](./src/25) |
+|    26     | Stack magical boxes to deliver gifts                      |     🟢     |    **5**     | [Show](./src/26) |
 | **Total** |                                                           |   **/**    |    **85**    |      **/**       |
 
 <h2>

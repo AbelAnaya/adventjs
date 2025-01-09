@@ -29,7 +29,8 @@
         "test:22": "tsc && jest --testPathPattern='/src/22/.*\\.test\\.ts$'",
         "test:23": "tsc && jest --testPathPattern='/src/23/.*\\.test\\.ts$'",
         "test:24": "tsc && jest --testPathPattern='/src/24/.*\\.test\\.ts$'",
-        "test:25": "tsc && jest --testPathPattern='/src/25/.*\\.test\\.ts$'"
+        "test:25": "tsc && jest --testPathPattern='/src/25/.*\\.test\\.ts$'",
+        "test:26": "tsc && jest --testPathPattern='/src/26/.*\\.test\\.ts$'"
     },
     "keywords": [],
     "author": "",
