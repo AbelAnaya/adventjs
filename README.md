@@ -68,7 +68,7 @@ pnpm test:1
 |    24     | Check if trees are magical mirrors                        |     🟠     |    **5**     | [Show](./src/24) |
 |    25     | Execute the magical language                              |     🟠     |    **5**     | [Show](./src/25) |
 |    26     | Stack magical boxes to deliver gifts                      |     🟢     |    **5**     | [Show](./src/26) |
-| **Total** |                                                           |   **/**    |    **85**    |      **/**       |
+| **Total** |                                                           |   **/**    |   **125**    |      **/**       |
 
 <h2>
     License
